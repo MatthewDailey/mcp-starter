@@ -2,6 +2,8 @@
 
 A minimal [ModelContextProtocol](https://modelcontextprotocol.io) server template for building AI assistant tools. This starter provides a basic structure for creating MCP tools that can be used with AI assistants like Claude.
 
+<a href="https://glama.ai/mcp/servers/z0fby9t6i1"><img width="380" height="200" src="https://glama.ai/mcp/servers/z0fby9t6i1/badge" alt="Starter Server MCP server" /></a>
+
 ## Features
 
 - Simple "hello world" tool example
